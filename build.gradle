@@ -13,7 +13,7 @@ apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
 // Change version in mods.toml and add to changelog
-version = 'a0.1.0'
+version = 'a0.1.1'
 group = 'com.aellul27.witcherycraft' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'witcherycraft'
 
